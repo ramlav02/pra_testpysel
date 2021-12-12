@@ -1,0 +1,19 @@
+welcome to future
+1.open gitbash--->git --version-->git config --help(to know the all git command)
+2.make directory by mkdir <name>
+3.cd <name>  (example testpysel)
+4.git init(this initiliase folder)
+--------------------------------------------------------
+5.git status (file appeared i.e visible but not commited yet means we not made any change through git)
+6.git add testpy1(isi note ka file name)
+7.git commit -m "commiting a text file"
+8.link a git with github account by
+  git config --global user.username ramlav02
+9.go to github and create repo
+jo bhi github mein repo create karte h wo remote repo hota hai
+10.to gitbash mein jake link karo remote or local repo ko by
+   git remote add origin https://github.com/ramlav02/pra_testpysel.git
+11.now we push local file ye wala..to remote repo
+   git push origin master
+12.to github mein jao aur waha dekhoge ki ye wala file show kar raha hoga.
+   
